@@ -7,10 +7,10 @@ A fun and simple web application built with **HTML**, **CSS**, and **JavaScript*
 ## 📸 Preview
 
 ### Screenshot 1:
-(LoveCal1.png)
+("./LoveCal1.png")
 
 ### Screenshot 2:
-(LoveCal2.png)
+("./LoveCal2.png")
 
 
 ## ✨ Features

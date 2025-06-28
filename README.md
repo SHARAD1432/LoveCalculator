@@ -6,11 +6,14 @@ A fun and simple web application built with **HTML**, **CSS**, and **JavaScript*
 
 ## 📸 Preview
 
+## 📸 Preview
+
 ### Screenshot 1:
-("./LoveCal1.png")
+![Love Calculator Screenshot 1](LoveCal1.jpg)
 
 ### Screenshot 2:
-("./LoveCal2.png")
+![Love Calculator Screenshot 2](LoveCal2.jpg)
+
 
 
 ## ✨ Features

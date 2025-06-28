@@ -3,9 +3,6 @@
 
 A fun and simple web application built with **HTML**, **CSS**, and **JavaScript** that calculates the "love success percentage" between two people based on their birthdates. This is a lighthearted and entertaining project that randomly generates a love compatibility score to bring a smile to your face.
 
-
-## 📸 Preview
-
 ## 📸 Preview
 
 ### Screenshot 1:

@@ -7,10 +7,11 @@ A fun and simple web application built with **HTML**, **CSS**, and **JavaScript*
 ## 📸 Preview
 
 ### Screenshot 1:
-![Love Calculator Screenshot 1](assets/images/LoveCal1.png)
+![Screenshot 1](LoveCal1.png)
 
 ### Screenshot 2:
-![Love Calculator Screenshot 2](assets/images/LoveCal2.png)
+![Screenshot 2](LoveCal2.png)
+
 
 ## ✨ Features
 
